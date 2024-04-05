@@ -1,0 +1,11 @@
+ an <html> and </htlm> tag represents root element of an html page between these two tags
+
+ <h1> defines a large heading</h1>
+
+ <hr> adds a horizontal line on the screen   <br> makes a line break
+
+ comment is written like this <!-- -->
+
+ to hyperlink use <a href=" "> </a>
+
+ lorem makes random nonsense
